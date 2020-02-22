@@ -5,6 +5,7 @@
       <material type="MeshBasic">
         <texture
           :url="
+            // replace with `/textures/${texture}.png` to use locally
             `https://raw.githubusercontent.com/mgiraldo/vue-threejs-hello-world/master/public/textures/${texture}.png`
           "
         ></texture>
