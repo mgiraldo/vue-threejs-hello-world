@@ -5,7 +5,7 @@
       <material type="MeshBasic">
         <texture
           :url="
-            `https://raw.githubusercontent.com/mgiraldo/vue-threejs-hello-world/textures/${texture}.png`
+            `https://raw.githubusercontent.com/mgiraldo/vue-threejs-hello-world/master/public/textures/${texture}.png`
           "
         ></texture>
       </material>
